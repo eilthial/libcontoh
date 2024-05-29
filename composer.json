@@ -1,0 +1,11 @@
+{
+    "name": "baim/libhallo",
+    "description": "pembuatan library sederhana",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"baim//libahallo": "src"}
+    },
+    "require": {}
+}
